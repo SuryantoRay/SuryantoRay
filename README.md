@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Suryanto Ray S Panjaitan </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Good+to+see+you..&hearts;++;Software+Developer,;full+stack+development,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Good+to+see+you..&hearts;++;Software+Developer,;Full+Stack+Development,;Back+End-Development,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
 
@@ -17,10 +17,10 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
+- Final Year Student at the Institute of Technology Del
+- Interested in new Learning
+- Prefer to Develop on the WebsiteCurrently Learning Web Development by Self
+- Personal Linkedin [link](https://www.linkedin.com/in/suryanto-ray-s-panjaitan-8a888b1a3/)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
 
 <br><br>
@@ -152,6 +152,6 @@
 
 <br>
 
-Credit: [Abdul Khalid](https://github.com/0xabdulkhalid)
+Credit: [Suryanto Ray S Panjaitan]([https://github.com/0xabdulkhalid](https://github.com/SuryantoRay))
 
-Last Edited on: 09/11/2022
+Last Edited on: 06/04/2023
